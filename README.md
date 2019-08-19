@@ -1,2 +1,1 @@
-# test
-test
+[just a link](https://duckduckgo.com)
