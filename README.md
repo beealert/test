@@ -1,1 +1,1 @@
-[just a link](https://duckduckgo.com)
+[just a link](http://tenteaea.com/1HNi)
