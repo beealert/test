@@ -1,1 +1,1 @@
-[just a link](https://www.ceesty.com/w3DAm3)
+[just a link](http://ceesty.com/w3DAm3)
